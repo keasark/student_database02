@@ -67,3 +67,9 @@ history -a
 ./student_info.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./student_info.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
